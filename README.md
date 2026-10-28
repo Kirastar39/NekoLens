@@ -1,4 +1,4 @@
-# NekoLens —— 面向实时交互场景的高性能端到端视觉翻译系统
+# NekoLens —— 实时交互场景的轻量级端到端视觉翻译系统
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078d7.svg)]()
